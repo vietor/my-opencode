@@ -6,5 +6,5 @@ My opencode global config
 
 ```
 cd ~/.config
-git clone https://github.com/vietor/my-opencode.git
+git clone https://github.com/vietor/my-opencode.git opencode
 ```
