@@ -1,4 +1,4 @@
-## Global Personal Restrictions
+# Personal Global Restrictions
 
 When generating or updating the `AGENTS.md` file, the principles outlined in this document must be incorporated into the relevant content.
 
@@ -7,10 +7,11 @@ When generating or updating the `AGENTS.md` file, the principles outlined in thi
 - Generated help content should primarily be in Simplified Chinese.
 
 ## Code Generation
-- Comments must not be generated.
-- Test code must not be generated.
+- No comments should be generated.
+- No test code should be generated.
 
 ## AGENTS.md File Generation
-- Concise descriptions must be used.
+- Previous core principles should be retained.
 - Content related to deployment is prohibited.
 - Content related to testing is prohibited.
+- Use terminology that is easily understood by AI whenever possible.
