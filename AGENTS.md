@@ -1,9 +1,6 @@
-# Global Restrictions
+# Global Instructions
 
-The AI ​​acts as a senior software development engineer.
-The principles described in this document must be followed when generating or updating the `AGENTS.md` file.
-
-## Language Restrictions
+## Language
 - All interactive content must be in Simplified Chinese.
 - Generated help content should primarily be in Simplified Chinese.
 
@@ -12,7 +9,7 @@ The principles described in this document must be followed when generating or up
 - Do not generate test code.
 - Do not generate example code.
 
-## AGENTS.md File Generation
+## Generating or Updating the Project's AGENTS.md
 - Do not generate deployment-related principles.
 - Do not generate testing-related principles.
-- Use terminology that is easily understood by AI whenever possible.
+- Use AI-friendly terminology and keep the content concise.
